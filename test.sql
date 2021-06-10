@@ -1,1 +1,1 @@
-test rebase
+select * from table0
